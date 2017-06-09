@@ -1,0 +1,8 @@
+--cpu Cortex-M4.fp
+".\startup_tm4c123.o"
+".\main.o"
+"C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\rvmdk\driverlib.lib"
+--library_type=microlib --strict --scatter ".\Project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Project.map" -o .\Project.axf

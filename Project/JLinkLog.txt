@@ -1,0 +1,27 @@
+
+T2460 000:154 SEGGER J-Link V4.86b Log File (0001ms, 0023ms total)
+T2460 000:154 DLL Compiled: Jun 27 2014 20:11:00 (0001ms, 0023ms total)
+T2460 000:154 Logging started @ 2016-07-21 21:04 (0001ms, 0023ms total)
+T2460 000:155 JLINK_SetWarnOutHandler(...) (0000ms, 0023ms total)
+T2460 000:155 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+S/N: 99999993
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL  returns O.K. (0029ms, 0052ms total)
+T2460 000:184 JLINK_SetErrorOutHandler(...) (0000ms, 0052ms total)
+T2460 000:184 JLINK_ExecCommand("ProjectFile = "C:\Users\admin\Documents\程序源码\TM4C\工程模板\Project\Project\JLinkSettings.ini"", ...)  returns 0x00 (0002ms, 0054ms total)
+T2460 000:201 JLINK_ExecCommand("Device = TM4C123GH6PZ", ...)Device "TM4C123GH6PZ" selected (256 KB flash, 32 KB RAM).  returns 0x00 (0007ms, 0061ms total)
+T2460 000:208 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0061ms total)
+T2460 000:208 JLINK_GetHardwareVersion()  returns 0x13880 (0001ms, 0062ms total)
+T2460 000:209 JLINK_GetDLLVersion()  returns 48602 (0000ms, 0062ms total)
+T2460 000:209 JLINK_GetFirmwareString(...) (0000ms, 0062ms total)
+T2460 000:213 JLINK_GetDLLVersion()  returns 48602 (0000ms, 0062ms total)
+T2460 000:213 JLINK_GetCompileDateTime() (0000ms, 0062ms total)
+T2460 000:240 JLINK_GetFirmwareString(...) (0000ms, 0062ms total)
+T2460 000:242 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0062ms total)
+T2460 000:247 JLINK_TIF_Select(JLINKARM_TIF_JTAG)  returns 0x00 (0001ms, 0063ms total)
+T2460 000:248 JLINK_SetSpeed(10000) (0000ms, 0063ms total)
+T2460 000:248 JLINK_GetIdData(...) (0001ms, 0064ms total)
+T2460 001:891 JLINK_Close() (0001ms, 0065ms total)
+T2460 001:891  (0001ms, 0065ms total)
+T2460 001:891 Closed (0001ms, 0065ms total)

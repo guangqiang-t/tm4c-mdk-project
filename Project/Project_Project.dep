@@ -1,0 +1,43 @@
+Dependencies for Project 'Project', Target 'Project': (DO NOT MODIFY !)
+F (..\Startup\startup_TM4C123.s)(0x574D8515)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (..\User\main.c)(0x57918604)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -IC:\Ti\TivaWare_C_Series-2.1.2.111 -I..\User --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DPART_TM4C123GH6PZ -DTM4C123GH6PZ-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdbool.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\fpu.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\inc\hw_gpio.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x00000000)
+I (C:\Users\tgqss\Documents\程序源码\TM4C\工程模板\Project\User\udf_delay.h)(0x574FEEE0)
+I (C:\Users\tgqss\Documents\程序源码\TM4C\工程模板\Project\User\udf_uart.h)(0x5751B631)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdarg.h)(0x00000000)
+F (..\User\udf_delay.c)(0x574FEEE0)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -IC:\Ti\TivaWare_C_Series-2.1.2.111 -I..\User --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DPART_TM4C123GH6PZ -DTM4C123GH6PZ-o .\udf_delay.o --omf_browse .\udf_delay.crf --depend .\udf_delay.d)
+I (C:\Users\tgqss\Documents\程序源码\TM4C\工程模板\Project\User\udf_delay.h)(0x574FEEE0)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x00000000)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdbool.h)(0x00000000)
+I (C:\Keil51Arm\ARM\Inc\TI\TM4C123\TM4C123.h)(0x00000000)
+I (C:\Keil51Arm\ARM\Inc\TI\TM4C123\TM4C123GH6PZ.h)(0x00000000)
+I (C:\Keil51Arm\ARM\CMSIS\Include\core_cm4.h)(0x00000000)
+I (C:\Keil51Arm\ARM\CMSIS\Include\core_cmInstr.h)(0x00000000)
+I (C:\Keil51Arm\ARM\CMSIS\Include\core_cmFunc.h)(0x00000000)
+I (C:\Keil51Arm\ARM\CMSIS\Include\core_cm4_simd.h)(0x00000000)
+I (C:\Keil51Arm\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x00000000)
+F (..\User\udf_uart.c)(0x575509C8)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -IC:\Ti\TivaWare_C_Series-2.1.2.111 -I..\User --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DPART_TM4C123GH6PZ -DTM4C123GH6PZ-o .\udf_uart.o --omf_browse .\udf_uart.crf --depend .\udf_uart.d)
+I (C:\Users\tgqss\Documents\程序源码\TM4C\工程模板\Project\User\udf_uart.h)(0x5751B631)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdbool.h)(0x00000000)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdio.h)(0x00000000)
+I (C:\Keil51Arm\ARM\ARMCC\include\stdarg.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\uart.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\gpio.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\sysctl.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\pin_map.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\interrupt.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\inc\hw_memmap.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\inc\hw_uart.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\inc\hw_gpio.h)(0x00000000)
+I (C:\Ti\TivaWare_C_Series-2.1.2.111\inc\hw_ints.h)(0x00000000)
+F (C:\Ti\TivaWare_C_Series-2.1.2.111\driverlib\rvmdk\driverlib.lib)(0x00000000)()
+F (..\Instruction\readme.txt)(0x575507ED)()
